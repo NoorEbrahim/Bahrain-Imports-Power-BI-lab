@@ -2,6 +2,7 @@
 ## Bahrain Imports Overview Dashboard (2020 - 2023)
 
 This repository contains an interactive dashboard visualizing Bahrain’s import trends between 2020 and 2023. The data is sourced from the official Bahrain Open Data Portal.
+
 The dashboard provides insights into import values, trade partners, and top commodities/categories to help policymakers, businesses, and researchers analyze Bahrain’s trade performance.
 
 ### Features
@@ -66,6 +67,6 @@ The dashboard provides insights into import values, trade partners, and top comm
 
 ### Tech Stack
 
-- Data Source: Bahrain Open Data Portal
+- Data Source: [Bahrain Open Data Portal](https://www.data.gov.bh/)
 
 - Visualization Tools: Power BI 
